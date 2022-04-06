@@ -3,7 +3,7 @@
 <h3>About Me 😁 </h3>
 <p>
 
-- 🔭 I am a full stack web development from Israel!
+- 🔭 I am a full stack web developer from Israel!
 
 - 🌱 enthusiastic with a strong desire to learn and grow
 
