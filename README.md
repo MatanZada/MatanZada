@@ -20,7 +20,7 @@
 
   [<img align="left" src='https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='40'>](https://www.facebook.com/matan.ban0/) 
 
-  [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/>](https://stackoverflow.com/users/17431722/matan-zada)
+  [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" height='40'/>](https://stackoverflow.com/users/17431722/matan-zada)
 
   
 
