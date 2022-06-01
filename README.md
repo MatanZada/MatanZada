@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World!🌎 I'm Matan Zada <img src="https://c.tenor.com/yKu5QqETPzAAAAAj/hi.gif" width="30px"></h1>
+<h1 align="center"> Hello World!🌎 I'm Matan Zada <img src="https://c.tenor.com/yKu5QqETPzAAAAAj/hi.gif" width="10px"></h1>
 
 <h3>About Me 😁 </h3>
 <p>
