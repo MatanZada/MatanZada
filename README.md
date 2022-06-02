@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=8000&color=F7E40A&background=1701FF00&center=%D7%A0%D6%B8%D7%9B%D7%95%D6%B9%D7%9F&vCenter=%D7%A0%D6%B8%D7%9B%D7%95%D6%B9%D7%9F&width=800&lines=Hello+World!%F0%9F%8C%8E+I'm+Matan+Zada;I'm+Matan+Zada)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=8000&color=F7E40A&background=1701FF00&center=%D7%A0%D6%B8%D7%9B%D7%95%D6%B9%D7%9F&vCenter=%D7%A0%D6%B8%D7%9B%D7%95%D6%B9%D7%9F&width=800&lines=Hello+World!%F0%9F%8C%8E+I'm+Matan+Zada+ <img src="https://c.tenor.com/yKu5QqETPzAAAAAj/hi.gif" width="40px">)
 
 <!-- <h1 align="center"> Hello World!🌎 I'm Matan Zada </h1>
 <img src="https://c.tenor.com/yKu5QqETPzAAAAAj/hi.gif" width="40px"> -->
